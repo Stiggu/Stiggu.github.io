@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1658182162291,
-  "index": "https://stiggu.github.io/index.html",
+  "timestamp": 1658431870787,
+  "index": "/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://stiggu.github.io/favicon.ico",
-        "https://stiggu.github.io/index.html",
-        "https://stiggu.github.io/main.157852695f635a5f.js",
-        "https://stiggu.github.io/manifest.webmanifest",
-        "https://stiggu.github.io/polyfills.5e5a1de15546a68f.js",
-        "https://stiggu.github.io/runtime.757b8081a3298e28.js",
-        "https://stiggu.github.io/styles.8dffd14004a373fe.css"
+        "/favicon.ico",
+        "/index.html",
+        "/main.6a00d609da4083b3.js",
+        "/manifest.webmanifest",
+        "/polyfills.5e5a1de15546a68f.js",
+        "/runtime.757b8081a3298e28.js",
+        "/styles.d736fdad2f89dbb5.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,37 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://stiggu.github.io/assets/icons/icon-128x128.png",
-        "https://stiggu.github.io/assets/icons/icon-144x144.png",
-        "https://stiggu.github.io/assets/icons/icon-152x152.png",
-        "https://stiggu.github.io/assets/icons/icon-192x192.png",
-        "https://stiggu.github.io/assets/icons/icon-384x384.png",
-        "https://stiggu.github.io/assets/icons/icon-512x512.png",
-        "https://stiggu.github.io/assets/icons/icon-72x72.png",
-        "https://stiggu.github.io/assets/icons/icon-96x96.png"
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/oak.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://stiggu.github.io/assets/icons/icon-128x128.png": "a73bca43c37ac26dbac5b33bee55529eef11d5fb",
-    "https://stiggu.github.io/assets/icons/icon-144x144.png": "e66a9b96f8474854dc0573321990b1288d15cab8",
-    "https://stiggu.github.io/assets/icons/icon-152x152.png": "5f00700d06f4b0908bd531d09645c2d681162107",
-    "https://stiggu.github.io/assets/icons/icon-192x192.png": "a8edca006d7a2634702068b2e76ab146adaf2c63",
-    "https://stiggu.github.io/assets/icons/icon-384x384.png": "f7777b99626b5ec48c93acff1ae495972b16b1d8",
-    "https://stiggu.github.io/assets/icons/icon-512x512.png": "fd05b659d7c94f6d99a0a765420f5d34a77912c9",
-    "https://stiggu.github.io/assets/icons/icon-72x72.png": "855cde3d9a466005d58f059e3c4f834eba412fb9",
-    "https://stiggu.github.io/assets/icons/icon-96x96.png": "a93762638ce278096e6001a768110a0bc930de24",
-    "https://stiggu.github.io/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://stiggu.github.io/index.html": "477c40b303ba27f1b1e416568dc5a6c46f673f37",
-    "https://stiggu.github.io/main.157852695f635a5f.js": "9db06222001519a81b835268802459f792341b91",
-    "https://stiggu.github.io/manifest.webmanifest": "c31cb686f934106a2c22054f498ee34e090bd93d",
-    "https://stiggu.github.io/polyfills.5e5a1de15546a68f.js": "b2d8979bd21fbb1e2597f0a6a63522da699f9217",
-    "https://stiggu.github.io/runtime.757b8081a3298e28.js": "9175be0055d420563225142bd301bc43e516a57f",
-    "https://stiggu.github.io/styles.8dffd14004a373fe.css": "9e0ee1fe8c98e43c75cd5cf83dbc815486a295ab"
+    "/assets/icons/icon-128x128.png": "a73bca43c37ac26dbac5b33bee55529eef11d5fb",
+    "/assets/icons/icon-144x144.png": "e66a9b96f8474854dc0573321990b1288d15cab8",
+    "/assets/icons/icon-152x152.png": "5f00700d06f4b0908bd531d09645c2d681162107",
+    "/assets/icons/icon-192x192.png": "a8edca006d7a2634702068b2e76ab146adaf2c63",
+    "/assets/icons/icon-384x384.png": "f7777b99626b5ec48c93acff1ae495972b16b1d8",
+    "/assets/icons/icon-512x512.png": "fd05b659d7c94f6d99a0a765420f5d34a77912c9",
+    "/assets/icons/icon-72x72.png": "855cde3d9a466005d58f059e3c4f834eba412fb9",
+    "/assets/icons/icon-96x96.png": "a93762638ce278096e6001a768110a0bc930de24",
+    "/assets/oak.png": "97ee8192b0395692252f0042ad6afe20cd7d8674",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "29a9524399b84adeada38e2229f5a1f415d11415",
+    "/main.6a00d609da4083b3.js": "d66da35705afc1b2ded4efdb228d1dea020b2d56",
+    "/manifest.webmanifest": "c31cb686f934106a2c22054f498ee34e090bd93d",
+    "/polyfills.5e5a1de15546a68f.js": "b2d8979bd21fbb1e2597f0a6a63522da699f9217",
+    "/runtime.757b8081a3298e28.js": "9175be0055d420563225142bd301bc43e516a57f",
+    "/styles.d736fdad2f89dbb5.css": "0a5dc36ba8648b4c7c37ef6e91c29d617693ed44"
   },
   "navigationUrls": [
     {
